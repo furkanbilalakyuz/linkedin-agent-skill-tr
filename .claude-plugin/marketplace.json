@@ -1,0 +1,18 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "linkedin-agent-skill-tr",
+  "description": "Türkçe LinkedIn agent skill paketi — Claude Code için",
+  "owner": {
+    "name": "furkanbilalakyuz",
+    "url": "https://github.com/furkanbilalakyuz"
+  },
+  "plugins": [
+    {
+      "name": "linkedin-agent-tr",
+      "description": "Türkçe LinkedIn yapay zekâ asistanı: gönderi, yorum, cevap, profil puanı, plan ve Türkçe destekli humanizer dahil 11 Claude skill'i.",
+      "source": "./",
+      "category": "productivity",
+      "homepage": "https://github.com/furkanbilalakyuz/linkedin-agent-skill-tr"
+    }
+  ]
+}

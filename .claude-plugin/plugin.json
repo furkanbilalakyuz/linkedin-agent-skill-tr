@@ -1,0 +1,13 @@
+{
+  "name": "linkedin-agent-tr",
+  "description": "Türkçe LinkedIn yapay zekâ asistanı: 11 Claude skill'i ile gönderi, yorum, cevap, profil puanı, haftalık plan, DM, gelen kutusu, carousel, içerik dönüştürme, analiz ve Türkçe destekli humanizer. Turkish edition of the LinkedIn agent skill pack.",
+  "version": "1.0.0",
+  "author": {
+    "name": "furkanbilalakyuz",
+    "url": "https://github.com/furkanbilalakyuz"
+  },
+  "homepage": "https://github.com/furkanbilalakyuz/linkedin-agent-skill-tr",
+  "repository": "https://github.com/furkanbilalakyuz/linkedin-agent-skill-tr",
+  "license": "MIT",
+  "keywords": ["linkedin", "turkish", "turkce", "content", "writing", "humanizer", "social", "marketing"]
+}
